@@ -1,0 +1,17 @@
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\TestVagrant_TestSOlution.exe
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\TestVagrant_TestSOlution.deps.json
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\TestVagrant_TestSOlution.runtimeconfig.json
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\TestVagrant_TestSOlution.dll
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\TestVagrant_TestSOlution.pdb
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.csproj.AssemblyReference.cache
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.AssemblyInfoInputs.cache
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.AssemblyInfo.cs
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.csproj.CoreCompileInputs.cache
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.csproj.CopyComplete
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.dll
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\refint\TestVagrant_TestSOlution.dll
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.pdb
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\TestVagrant_TestSOlution.genruntimeconfig.cache
+C:\Users\mayur.walke\Desktop\Myregular documents-20230216T154357Z-001\TestVagrantAssignment\TestVagrant_TestSOlution\TestVagrant_TestSOlution\obj\Debug\net6.0\ref\TestVagrant_TestSOlution.dll
